@@ -24,7 +24,7 @@ los metodos deben ser todos publicos y abstractos| no tiene restricciones
 
 Tanto las interfaces como las clases abstractas pueden servirnos como nuestro super tipo, 
 sin embargo son conceptos diferentes, las clases nos sirven para agrupar tipos que tengan 
-las mismas características y por lo general tienen ademas tienen variables de instancia 
+las mismas características y por lo general ademas tienen variables de instancia 
 (o sea tiene estado); en cambio las interfaces solo definen comportamiento.
 En java casi todas las clases implementan la interfaz comparable que sirve para comparar 
 los objetos, pero no es correcto decir por ejemplo que un animal sea un comparable.
